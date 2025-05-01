@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TV Screen Uptime Tracker</string>
+    <string name="notification_title">TV Uptime Tracker</string>
+    <string name="notification_text">Monitoring TV screen uptime</string>
+    <string name="channel_name">Uptime Tracker</string>
+    <string name="channel_description">Used to keep the uptime tracker service running</string>
+    <string name="save_settings">Save Settings</string>
+    <string name="start_service">Start Service</string>
+    <string name="email_settings">Email Settings</string>
+    <string name="email_address">Email Address:</string>
+    <string name="email_password">Email Password:</string>
+    <string name="recipient_email">Recipient Email:</string>
+    <string name="enter_email_address">Enter email address</string>
+    <string name="enter_email_password">Enter email password</string>
+    <string name="enter_recipient_email">Enter recipient email</string>
+    <string name="settings_saved">Settings saved</string>
+    <string name="service_started">Service started</string>
+    <string name="fill_all_fields">Please fill in all fields</string>
+    <string name="device_name">Device: %s</string>
+    <string name="uptime_today">Today\'s Uptime: %dh %dm</string>
+    <string name="last_report">Last Report: %s</string>
+    <string name="last_report_none">Last Report: None</string>
+</resources>

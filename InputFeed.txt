@@ -1,0 +1,19 @@
+I need to develop an android app which does the following things
+
+Requirements
+1) I need this to be a demon program
+2) when the os starts, need the code to start as well
+3) when the code starts i need the following to be done
+5) Need to record the up time, when the device was on.
+6) To achieve this, when ever the os turns on, run the code,
+every 5 min record the event for uptime.
+7) aggregate the event over period of day.
+8) This should be presistance, lets say the os goes down for 30 min in between the day, we need it to record it in a persistant way
+9) The memeory used should be wiped of after a week. then start afresh for the next week
+10) when ever the net is avaliable, need a csv to be sent over email for user
+with the below format
+screen_name,start_time,end_time,total_uptime_min
+screen_name_1,2025-02-02 06:30:31,2025-02-02 12:30:31,360
+screen_name_1,2025-02-02 14:30:31,2025-02-02 17:30:31,180
+
+screen_name is form os env name

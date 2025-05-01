@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="320dp"
+    android:height="180dp"
+    android:viewportWidth="320"
+    android:viewportHeight="180">
+    
+    <!-- Background -->
+    <path
+        android:fillColor="#0277BD"
+        android:pathData="M0,0h320v180h-320z" />
+    
+    <!-- TV Icon -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M160,50L100,50C89,50 80,59 80,70L80,130C80,141 89,150 100,150L160,150C171,150 180,141 180,130L180,70C180,59 171,50 160,50ZM170,130C170,135.5 165.5,140 160,140L100,140C94.5,140 90,135.5 90,130L90,70C90,64.5 94.5,60 100,60L160,60C165.5,60 170,64.5 170,70L170,130Z" />
+    
+    <!-- Timer Icon -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M240,50C218,50 200,68 200,90C200,112 218,130 240,130C262,130 280,112 280,90C280,68 262,50 240,50ZM240,120C223.5,120 210,106.5 210,90C210,73.5 223.5,60 240,60C256.5,60 270,73.5 270,90C270,106.5 256.5,120 240,120Z" />
+    
+    <!-- Timer Hands -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M245,85L245,70L235,70L235,85L220,85L220,95L235,95L235,110L245,110L245,95L260,95L260,85L245,85Z" />
+    
+    <!-- App Name -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M160,160L160,160C160,160 120,160 120,160C120,160 120,170 120,170C120,170 200,170 200,170C200,170 200,160 200,160C200,160 160,160 160,160Z" />
+</vector>
